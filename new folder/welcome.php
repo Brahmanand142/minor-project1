@@ -8,9 +8,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
-            /* background: linear-gradient(to right, #6a11cb, #2575fc); */
-            background: 
-
+            background: linear-gradient(to right, #6a11cb, #2575fc);
             color: #fff;
             height: 100vh;
             display: flex;
@@ -49,10 +47,10 @@
     </style>
 </head>
 <body>
-    <div style="background-color:rgb(149, 220, 220);;" class="welcome-container">
-        <h1 class="welcome-title">Welcome to Style Craft Studios</h1>
+    <div class="welcome-container">
+        <h1 class="welcome-title">Welcome to My Amazon Clone</h1>
         <p class="lead">Click the button below to explore the full website.</p>
-        <a href="welcome(main-index).php" class="visit-btn">Visit Website</a>
+        <a href="index.php" class="visit-btn">Visit Website</a>
     </div>
 
     <!-- Bootstrap 5 JS -->
